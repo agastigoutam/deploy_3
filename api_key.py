@@ -1,0 +1,3 @@
+openai_key="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"
+
+# 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

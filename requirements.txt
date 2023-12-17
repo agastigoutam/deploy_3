@@ -1,0 +1,13 @@
+langchain
+openai
+PyPDF2
+faiss-cpu
+tiktoken
+matplotlib
+transformers
+pandas
+textract
+pypdf
+streamlit
+streamlit-extras
+google-generativeai
