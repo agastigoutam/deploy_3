@@ -1,4 +1,3 @@
-# https://github.com/MuhammadMoinFaisal/LargeLanguageModelsProjects/tree/main/Streamlit_Chat_Multiple_PDF_PaLM2
 
 
 import streamlit as st
